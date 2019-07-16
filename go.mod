@@ -95,7 +95,7 @@ require (
 	github.com/tidwall/match v1.0.1 // indirect
 	github.com/tidwall/pretty v0.0.0-20190325153808-1166b9ac2b65 // indirect
 	github.com/ugorji/go v1.1.4 // indirect
-	github.com/vansante/go-ffprobe v1.0.0
+	github.com/vansante/go-ffprobe v1.1.0
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	golang.org/x/exp v0.0.0-20190509005604-ec0fef3eb65a // indirect
